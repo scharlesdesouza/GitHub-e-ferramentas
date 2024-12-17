@@ -21,8 +21,8 @@
  - Aproveitar sugestões de ferramenta de IA
 
 
- ####3. Operações Matemáticas Simples 📐
- Solicitar dois números inteiros como entrada e depois realizar uma operação simples entre eles.
+ #### 3. Operações Matemáticas Simples 📐
+  Solicitar dois números inteiros como entrada e depois realizar uma operação simples entre eles.
 
  - Entrada de Dados
  - Operações matemáticas simples
