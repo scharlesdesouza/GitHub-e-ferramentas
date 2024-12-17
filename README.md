@@ -42,6 +42,7 @@ Receber um número inteiro e verificar se ele é par ou ímpar, utilizando IA pa
 - Uso de variáveis para armazenar dados fornecidos pelo usuário.
 - Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 - Prática na solicitação e manipulação de entrada do usuário.
+- Adicionado média 7 para verificar se aprovado ou reprovado.
 
 
 #### __6. Verificando Palíndromos 🔄__
