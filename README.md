@@ -1,4 +1,4 @@
-# GitHub-e-ferramentas
+# GitHub-e-ChatGpt
 
 ### Desafios de código em Python utilizando ferramenta ChatGPT e Codspace.
 
